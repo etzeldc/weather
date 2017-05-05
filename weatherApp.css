@@ -24,7 +24,7 @@ body { /* styling the entire page's background a nice light blue color */
     text-align: center;
 }
 
-.station { /* styles the top lines of each div container to a little more than their h1 tags do */
+span { /* styles the titular lines of each div container to a little more than their h1 tags do */
     text-decoration: underline;
 }
 
